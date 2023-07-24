@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="EditoriFrameTestSuite" verbose="1">
+  <test name="EditoriFrameTests">
+    <classes>
+      <class name="com.herokuapp.theinternet.editoriframetests.EditoriFrameTests" />
+    </classes>
+  </test>
+</suite>
